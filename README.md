@@ -1,11 +1,10 @@
 # primeira-pagina
 ## desenvolvido po GuilhermeParteka
-### estudante Alexandra : smiley
+### estudante Guilherme
 **áreas afins:**
-- QUÍMICA
-- FÍSICA
-- GEOGRAFIA
+- QUÍMICA :clubs:
+- FÍSICA :hearts:
+- GAMES :game_die:
+- FUTEBOL :soccer:
+- CARRO :red_car:
 
-  ### HOBBIES
-  - 
-### site desenvolvido em HTMNL E CSS
